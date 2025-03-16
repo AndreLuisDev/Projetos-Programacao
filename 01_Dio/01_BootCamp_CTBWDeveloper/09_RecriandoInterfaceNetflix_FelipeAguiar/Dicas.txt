@@ -1,0 +1,161 @@
+PARTE 1
+
+# <meta charset="UTF-8">
+
+	padrão que caracteres que se aceita os acentuados
+
+
+PARTE 2
+
+# Em termos de função a TAG <div> pode executar a mesma função do que as TAG SEMÂNTICAS (header, footer, section,)
+	O que se nota é que essas TAG foram criadas no HTML 5 para que seja mais possível compreender a estrutura do site; no entanto para o PC, TAG S ou DIV tem o mesmo valor.
+
+
+# MENU DE NAVEGAÇÃO OU NAVBAR	
+	Pode estar dentro de uma div ou header
+
+# <div> é uma "caixinha" - um pedaço da página
+		- e sua classe é chamada de CONTAINER
+
+# ALT+SHIFT+ seta para baixo
+	Clona ou Copia quantas vezes a linha onde se está o cursor
+	Clona ou Copia quantas vezes a linha onde se está o cursor
+	Clona ou Copia quantas vezes a linha onde se está o cursor
+	Clona ou Copia quantas vezes a linha onde se está o cursor
+
+
+# FOI INFORMADO À PÁGINA HTML QUAL OU QUAIS FOLHAS DE ESTILOS ESTÃO SENDO USADAS?
+	- é necessário linkalas na TAG <head>
+
+PARTE 3
+
+# PADRONIZAÇÃO - RESET CSS
+	
+		*{
+   		margin: 0;
+   		padding: 0;
+   		box-sizing: border-box; [os elementos não vao ultrapassar a borda da caixa, caso sejam maior que o tamanho definido para as caixas (div's) e imagens maiores que ela]
+}
+
+
+# DECLARAÇÃO DE VARIÁVEIS NO CSS
+
+	- É possível declarar variáveis quando, por exemplo, sabe-se que as cores padrão de um site são tais:
+		:root{
+    		--vermelho:#E50914;
+   			--preta:#141414;
+
+	Nesse caso, não precisaria procurar na folha CSS tal cor para alterá-la. Troco na raiz!
+
+	- background: var(--preta) 
+		- pega a preta declarada em root!!!!!
+
+# header nav a:hover{
+    color: #fff;
+}
+
+	- mouse passa em cima muda a cor
+
+# ALINHAMENTO TIPO DISPLAY FLEX
+	display: flex;
+		- alinha a caixa até a linha completar. 
+		"joga lado a lado" até completar a linha e quebrar
+
+	A combinação para display: flex é o justify-content.
+		encontrar a melhor combinação de ALINHAMENTO entre os dois [horizontal/Svertical e centralizados]
+
+
+
+PARTE 4
+
+	div. /dive ponto/ -> quande se abre a div para nomear a classe, e após o enter, é auto-completado
+
+	- A ideia é criar as div's do tipo wrapper
+		e chamá-las de CONTAINER
+	- Essa boa prática facilita a edição dos elementos contidos dentro dessa DIV, pois uma vez necessário realizar uma alteração, de tamanho, por exemplo, é feito default para a div, ao invés de ser feito apenas para um elemento que conste dentro dessa DIV.
+
+
+background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0.50)100%)
+
+	cria uma camada de contraste entre o texto que é branco e o plano de fundo que é a imagem. Facilitando a leitura.
+
+ - <button role="button" class="botao">
+
+	- a role="button" certifica que para qualquer tipo de plataforma que o site se abra, não tenha erro na função botão**********
+
+   - o justify-content segue sempre a direão do flex-direction!
+
+
+- <div> quando uma nova div é criada dentro de um CONTAINER div, ela cria por padrão o display chamado Block;
+
+
+PARTE 5
+
+ - default css do navegador para button
+
+ - www.fotawesome.com
+	- cria ícones sem precisar baixá-los
+	- arquivos/documentos em js na extensão .spg
+	- scrip incorporado na página html
+		- cadastra-se no site
+		- color o link do site enviado para seu email [link JS do código hospedado em nuvem]
+			- pesquisar qual tipo de ícone em Icons/Assunto
+
+	- COR PARA O botão
+		-background-color: rgba(0,0,0.50);
+		- EFEITO DE TRANSPARÊNCIA
+			- verde, vermelho, azul e CAMADA ALFA .50
+
+
+	- transition: .3s ease all
+		efeito de acender e apagar botão lentamente
+
+
+PARTE 6 
+
+	- Compreender o funcionamento do CSS
+		- truques de layout'S
+		- experiência em como rearranjar os blocos na tela
+
+	CLASSE wrapper
+		- envelope / envelopar similar a CONTAINER
+		- envelopar tudo o que há dentro dessa classe
+		- configurada por meio de uma <div>
+			- armazena diversas partes, as quais contém seus respectivos elementos
+		- Ao invés de manipular cada parte (cada div dentro da div wrapper - classe filhas)
+			- manipula-se o elemento div PAI, que é a CLASSE WRAPPER
+		- Portanto, a classe wrapper é uma boa prática para manipular grandes blocos de informações, mantendo o padrão de ALINHAMENTO na página.
+		- O Bootstrap possui essa div
+
+
+PARTE 7
+
+	CARROSSEL DE TODOS OS FILMES DISPONÍVEIS
+	- usar recursos externos como JQuery
+	- owl Carousel 2 - jquery (está caindo em desuso)
+
+	- link no index.html os arquivos JS e CSS baixados
+	- CTRL + barra espaço - ajuda a abrir os repositórios e arquivos no cursor.
+
+	- link do JS devem ser colocados no final da página HTML
+	 pois a pagina em ordem sequencial
+	 e tentar executar algum script antes de a página terminar de ser carregada, pode dar ERRO*******
+
+	- $ - significa jquery
+
+PARTE 8
+
+	- RESPONSIVIDADE
+		- quando a tela é muito reduzida
+				- cria uma media query - como se fosse a função SE
+				- quando a tela encurtar até no maxímo de 700px
+				@media screen(){}
+
+		- ao inspecionar elemento pelo navegador Chrome, esse mostra o tamanho da tela
+		- é possível criar situações específica para cada tamanho de dispositivo, ao simuluar Smartphone.
+		
+
+
+		
+
+	
