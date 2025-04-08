@@ -1,0 +1,16 @@
+1 identificar a fonte de dados:
+	- vindo de um sistema?;
+	- tempo real?;
+
+2 identificar o formato de dados atual:
+	- como que está sendo gravado dentro do banco de dados?;
+	- Uma tabela? Linhas, Colunas?;
+
+3 identificar o formato desejado:
+	- formatar do modo que desejo, DD/MM/AAAA, HH:MIN:SEG, Nome etc;
+
+-----------------------
+
+Ex: Um modelo de marching learning que monitora a temperatura de um equipamento, pode criar um modelo que acuse temperatura fora da curva, ventos acima da velocidade - criar um alerta, etc;
+
+- O INTERESSANTE É CONVERSAR COM A EQUIPE DE NEGÓCIOS PARA QUE O ANALISTA DE DADOS POSSA DESENVOLVER O ALGORITMO QUE APONTE A INFORMAÇÃO A SER MONITORADA.

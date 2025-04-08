@@ -1,0 +1,24 @@
+|-------------MINHA BIBLIOTECA PYTHON-------------|
+
+leia() - Entrada de dados
+
+escreva() ou escreval() quebra de linha no final --> Saída de dados;
+
+Atribuição | multiplica <- 2*2 (multiplica recebe 2x2) | o símbolo na maioria das LP é o =
+
+OPERAÇÃO ARITMÉTICA --> ** é exponeciação
+
+OPERADORES RELACIONAIS  |  retornam valores lógicos (V/F, true/false ou 0/1)
+Operação	Símbolo
+Comparação	=
+Diferente de	<>
+Maior que	>
+Menor que	<
+Maior ou igual	>=
+Menor ou igual	<=
+
+Tipo dados   int float bool str
+
+|--------FUNÇÕES---------|
+    print()
+    type() -  identificar o tipo do valor armazenado em uma variável;

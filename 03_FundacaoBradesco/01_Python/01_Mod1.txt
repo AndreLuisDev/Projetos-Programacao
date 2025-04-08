@@ -1,0 +1,21 @@
+O Python também é uma das linguagens mais aplicadas em projetos de grandes empresas e dos órgãos públicos de nosso país, sendo uma das linguagens de programação mais utilizadas pelo mundo para trabalhar com Ciência de Dados e Inteligência Artificial.
+
+Com a linguagem Python é possível a criação desde sistemas web até a análise de dados de inteligência artificial utilizando recursos, como Machine Learning.
+
+O Python traz recursos simples para utilização, tornando o aprendizado bastante prazeroso. Também é um excelente recurso para quem está iniciando a carreira em programação.
+
+
+Módulo 1 - Introdução á Lógica de Programação
+
+
+Caracter	Qualquer conjunto de caracteres alfanuméricos.
+Exemplo: “Fabio”, “São Paulo”, “VZ32”, “123”...
+Inteiro	Qualquer número inteiro, negativo, nulo ou positivo.
+Exemplo: -21, 0, 10, 5025...
+Real	Qualquer número real no formato decimal, negativo, nulo ou positivo.
+Exemplo: -0.5, 0, 5, 9.5...
+Lógico	Conjunto de valores (falso ou verdadeiro)
+
+
+
+

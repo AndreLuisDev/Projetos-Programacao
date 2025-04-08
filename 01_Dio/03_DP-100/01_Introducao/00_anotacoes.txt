@@ -1,0 +1,14 @@
+1 - Bootcamp composto de Cursos, desafio de código, mentoria.
+
+2 - Mentoria Ao vivo - participar e construir rede contatos.
+
+3 - Bootcamp vale pontos Xp (Exibe meus dados na Talench Match)
+
+4 - Premiações
+
+5 - Rooms - fazer conexão e tirar dúvidas com quem esta nesse bootcamp;
+
+6 - Fórum - dúvidas técnicas e compartilhas aprendizados do Bootcamp;
+
+7 - Artigo - compartilhar conhecimento, criar autoridade na Dio Comunnity
+

@@ -1,0 +1,64 @@
+A linguagem é indicada por que ela é FÁCIL DE USAR
+	- ágil, fácil e objetiva
+	- POO
+	- Modelo comunitário de desenvolvimento aberto.
+
+- LP de ALTO NÍVEL
+	- não requer conhecimentos de outras LP para usar;
+	- LP aplicada diretamente ao código;
+	- Aprendizado rápido.
+	- PY LP de fonte livre e aberta**
+	- Grande comunidade de apoio;
+
+- Aplicada em Projetos robustos:
+	- Back-end, ciência de dados ML e simulações;
+
+HISTÓRIA
+
+	- Criado décado 90 - Guido Van Rossum - Centro de Matemática Stichting na Holanda, sucessora da Linguagem ABC.
+	-  linguagem ABC foi desenvolvida para o uso de não programadores, mas logo no início mostrou várias limitações e restrições , não agradando ao público. Guido começou a tarefa de criar uma linguagem de script simple, que possuísse algumas das melhores propriedades da ABC.
+	- Atualmente, a linguagem Python é gerenciada pela Python Software Foundation. Possui uma licença de código aberto, chamada Python Software Foundation License, que é compatível com a General Public License (GNU) a partir da versão 2.1.1 e incompatível em certas versões anteriores.
+
+
+
+ |---------------VERSÃO DO PYTHON-------------| 
+
+	PYTHON 2
+		- atulizações até 2020 - suporte descontinuado;
+		- Usa para software que não foi migrado para o 3 ou manter sistema legado.
+
+	PYTHON 3 
+		- mudanças nela quebrou a compatibilidade com a versão 2.
+
+
+ |------------ INSTALAÇÃO DO PY------|
+
+	- CMD - Terminal interativo do PYTHON >>>
+		- realiza-se instruções e ele já vai interpretando e executando os comandos, passo a passo.
+
+		- O IDLE Python funciona de forma semelhante ao Prompt de Comando, porém, com Barra de menu;
+
+
+|---------IDE-------|
+
+	- Integrated Development Environment (IDE) ou Ambiente de Desenvolvimento Integrado:
+	 	- software - combina ferramentas comuns para desenvolvimento em uma única interface gráfica
+		- Isso facilita o desenvolvimento de aplicativos:
+		- Possui Editor de código-fonte, Automação de compilação local e Debugger;
+
+	- IDE PYCHARM
+		- torna o desenvolvimento mais fácil, agradável. Aspecto moderno.
+		- Recursos extras.
+		- Instalar a versão Community que é gratuita para desenvolvedores.
+
+		
+	- Instale a IDE, clique em New environment using - Escolher a versão do interpretador que será usado no projeto (na versão que instalei não deu essa opção);
+		- a pasta Virtualenv é o ambiente isolado do sistema operacional;
+		- nela contém a versão do interpretador, a qual selecionamos na criação do projeto e seus módulos embutidos (builtins);
+		- não marcar a opção de main.py (script para providenciar a criação do arquivo principal);
+		- 
+
+
+
+
+

@@ -1,0 +1,28 @@
+- Microsoft Learn Student ambassadors o que é?
+
+O Microsoft Learn Student Ambassadors é um programa global da Microsoft para estudantes universitários que querem desenvolver habilidades técnicas, ganhar experiência prática e ajudar sua comunidade acadêmica.
+
+- Depois de se registrar no programa Student Ambassadors, você será convidado a ingressar no Microsoft Student Developer Community no Discord. No Discord, você pode concluir as atividades da comunidade que se alinham com seus interesses e habilidades para se tornar um Student Ambassador. Os membros registrados que atenderem aos requisitos de atividade serão convidados a ingressar no programa Student Ambassadors trimestralmente.
+
+- Concluir registro no programa ( )
+
+- Há possibilidades de ganhar certificações da Microsoft depois.
+
+- OBJETIVO CURSO
+
+	- Arquitetar um workspace dentro da Azure - Criar os projetos em Ciência de Dados - Algoritmos IA
+	- Explorar os dados para entender a base de dados, ver como está consumindo e depois colocar no MODELO e executar os pipelines
+	- Implantar modelos e MONITÁ-LOS. Fazer ciência com os modelos matemáticos criados.
+	- Otimizar esses modelos - TRABALHAR COM LINGUAGUEM NATURAL COM ESSES MODELOS.
+
+	- PÚBLICO ALVO - quem trabalha ou quer trabalhar com:
+		- Azure Machine Learning
+		- SDK do Python(v2)
+		- Acompanham e gerenciam modelos de Marching Learnig MLFlow
+		- Otimiza modelos de linguagem com o AZURE AI Foundry
+
+- CERTIFICAÇÃO - vale por 1 ano
+	- vouchers para não precisar pagar novamente as vezes se consegue
+	- Exame de certificação - Conteúdo? - Foto no repositório do BootCamp
+
+- 

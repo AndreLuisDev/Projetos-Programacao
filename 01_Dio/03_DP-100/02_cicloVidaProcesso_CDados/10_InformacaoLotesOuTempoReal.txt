@@ -1,0 +1,8 @@
+- Obteremos a informação do modelo em tempo real?:
+	- 1 x 1?;
+	- Clicou apareceu?;
+	- IoT é assim - sensores;
+
+- Obter a informação em lote?:
+	- Salva em uma base de dados e depois infere-se;
+	- Salva os arquivos em um tempo e depois se consome os dados para determinado fim;

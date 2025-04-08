@@ -1,0 +1,15 @@
+Aula 13, 14, e 15 - Criando formatação específica
+	- início/Formatação Condicional/...
+	- no Excel Web as funções são limitadas ou distintas da versão Destokp
+
+	- Na Guia Inicio/Formatação Condicional/ quando você seleciona qual função diretamente na Aba, aplica para todas as células do intervalo previamente selecionado.
+	- Alternativamente, pode-se clicar em Nova Regra e atribuir manualmente:		- valor específico, escala de cores, etc
+
+Aula 16 - 
+	Formatando data com cores, acima ou abaixo de um valor de refeência:
+	- células verdes ok, vermelhas vencidas.
+	Na versão local - é possível aplicar a toda linha, clicando em aplica-se a, que pinta toda a linha	
+	- Formatação condicional Fx (fórmulas)
+
+	- Clicando em Gerenciar regras, é possível tratar todas as regras da planilha, editar.
+

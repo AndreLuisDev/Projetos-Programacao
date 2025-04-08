@@ -1,0 +1,30 @@
+- Para aumentar a produtividade no Excel - USAE TECLAS DE ATALHO
+
+- Troca de mão do mouse para o teclado, mexer no mouse - REDUÇÃO DE HORAS DE TRABALHO;
+
+	EX: Selecionar milhares de linha com mouse iria tomar muito tempo e gastar muita energia toque fino da mão direita.
+
+                     
+1 - Ctrl + pg dn ou Pg dn
+
+2 - Shift + setas - seleciona intervalos de células
+
+3 - Ctrl + setas    salta para o começo ou fim de um intervalo de dados
+
+4 -   Crt + Shitf + setas --> salta e seleciona para o fim ou começo de intervalo de dados.
+	- ATENÇÃO para que se falta um dado em uma linha ou uma coluna, pois a seleção é interrompida nesse "buraco"
+5 - Shift + Espaço --> seleciona linha inteira | crtl + espaço --> seleciona coluna inteira.
+
+6 - Apagar = deletar =! excluir
+	excluir linha ou coluna Ctrl + - OU Ctrl + + adicionar
+
+7 - Inserir coluna - intervalos (linha ou colunas) ctrl + shift + =
+
+_________________________
+                                                                                                                                                                                              
+
+AULA 10 - atenção a células mescladas em títulos de tabelas por elas podem atrapalhar o manuseio dos dados
+
+	- Quando o título está mesclado acima da tabela, e desejo selecionar apenas uma coluna, ao selecionar a coluno com ctrl + espaço TODA A TABELA acaba sendo selecionado por padrão da célula mesclada do título.
+	- SOLUÇÃO - não mesclar as células do título
+

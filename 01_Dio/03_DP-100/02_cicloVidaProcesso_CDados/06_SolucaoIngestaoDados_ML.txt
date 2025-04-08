@@ -1,0 +1,12 @@
+	- Como criar uma automação para captura automática de dados para treinar o MODELO DE ML?
+	
+	|---------PIPELINE DE INGESTÃO DE DADOS-------------|
+
+	1 Os dados sendo gerados na fonte (armazenados ou não);
+	2 Sistema CRM ou dispositivo IoT;
+	3 Captar os dados para treinar o Modelo (pipeline para o processamento da  informação) --> trazendo para o Azure Synapse Analytics [Conecta na fonte de dados que fornece a informação bruta, processa a informação "consome", e salvar e informação]:
+	4 E os dados podem ser armazenados no BLOBS DO AZURE;
+
+	- Conversar com a equipe do negócio é fundamental para entender qual será a estrutura que será criada para tratar os dados, processar e armazenar.
+
+ 

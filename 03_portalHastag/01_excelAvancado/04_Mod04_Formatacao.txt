@@ -1,0 +1,49 @@
+01 - ALINHAMENTO, FONTE, FORMATAÇÃO, MESCLA
+
+# Para deixar a largura e o comprimento de todas as células:
+	- selecionar todas. Alterar a largura e comprimento de uma;
+	- todas receberão o mesmo ajustes;
+
+2 - COR E PADRÃO DE COR DAS CÉLULAS
+
+	- Fonte / Preenchimento / Efeito de preenchimento / Gradiente de cor para o fundo da célula em até duas cores e Tipo de Sombreamento
+	- Fonte / Preenchimento / Cor do Padrão = a cor do fundo da célula - por padrão é BRANCA TODAS AS CÉLULAS. Mas dá para alterar.
+
+	#  Pelo Excel Web as funções são limitadas em relação a versão instalada localmente.
+	
+	- Para verificar qual é a cor do fundo de preenchimento de uma célula, é só clicar na célula e verificar o quadradinho de cor que está selecionado.
+
+3 e 4 - COR E BORDA DA CÉLULA
+
+	- Guia exibir - Mostrar e desmarcar Linhas de Grande - tira as linhas de grade;
+
+	- Para acessar a Guia de Formatar céluas que ficar dentro da Página inicial:
+		- digitar Ctrl + 1
+	- Formatando as células e suas bordas CTRL + 1
+
+5 - PINCEL DE FORMATAÇÃO
+	- Replicar a formatação de uma seleção para outro local;
+	- Duplo clique vai salvando a formatação onde clicar;
+
+6 - Formatando números
+	- Formato de apresentação da data. Pode ser por barras ou Forma completa:			- 01/01/2022 ou sábado, 1 de janeiro de 2022.
+		 Data			Data completa --> o valor da célula não muda;
+
+	- O mesmo serve para a apresentação para números decimais.
+		- Quando se escolhe uma visualização de até duas casas decimais:
+		- Para fins de apresentação se reduz o visual da célula para 2 casa decimais
+		- Na célula ainda se manterá o valor real.
+
+
+7 - Formatos dos números
+	- %, Moeda, Contábel, Data e Hora
+
+8 - Data e hora
+	- todos os números inteiros representam uma data;
+	- o primeiro dia configurado no Excel para data é o número inteiro 1;
+	- se 01 == 01/01/1900, qual é a data para o dia do número inteiro 10?
+
+9 - Data Personalizada
+10 - Número Pernosalizado
+11 - Exercício - Engraçado que muitas funcionalidades no Excel Web não há de acordo com o instalado.
+

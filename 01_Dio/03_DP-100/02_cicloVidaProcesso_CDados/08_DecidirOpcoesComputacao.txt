@@ -1,0 +1,35 @@
+DENTRO DA PLATAFORMA AZURE ML:
+
+// CPU ou GPU
+	- Qual máquina/infraestrutura irá rodar/treinar meu ALGORITMO?
+
+		-----CPU-------
+	- Podemos escolher CPU para conjuntos de dados tabulares menores;
+	- Eficiente e mais barato para usar;
+	
+	-------GPU--------
+	- Para o tratamento de dados não estruturados como textos ou imagens podemos escolher a placa de vídeo/gráfica, é mais eficiente e eficaz;
+
+// USO GERAL OU OTIMIZADO PARA MEMÓRIA?:
+	- Dentro do AZURE ML é possível selecionar o tipo;
+	- Consegue-se selecionar qual será o tipo de aplicação da CPU para o tratamento de dados:
+		1 - USO GERAL:**
+			- tem uma tx CPU/Memoria equilibrada;
+			- ideal para teste e conjuntos de dados menores;
+			- mais barato;
+		2 - OTIMIZADO:
+			- grande conjunto de dados e Algoritmos maiores;
+			- mais caro;
+			- tem alta tx de memoria da CPU;
+			- ótima opção para análise de memória;
+
+// SPARK
+	- Serviços do Azure Synapse Analytic e Databrick oferecem computação do Spark;
+	- Consegue-se separar um CLUSTER (categorização) de SPARK e dentro da computação, consegue-se rodar os MODELOS de IA;
+
+
+// MONITORAR A UTILIZAÇÃO DA COMPUTAÇÃO:
+	- Verificar as configurações dos recursos;
+	- A medida que se vai treinando o Modelo, consegue verificar se está usando demais ou de menos - em vista de melhorar custos e performance. 
+	- Precisa mudar CPU/GPU? Tx?
+

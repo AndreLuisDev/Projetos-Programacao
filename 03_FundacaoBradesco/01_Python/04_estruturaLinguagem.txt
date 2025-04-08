@@ -1,0 +1,41 @@
+MÓDULO 3
+
+ESTRUTURA LÓGICA DA LP PY E DECLARAÇÃO DAS VARIÁVEIS
+
+    - print() - usada para imprimir uma mensagem na tela;
+    - Python é CASE SENSITIVE - diferencia Maiúscula de Minúscula.
+
+    - a linguagem PY tem sua própria linguagem - ao se querer imprimir texto, pode-se utilizar "" ou '' par colocar o texto entre as aspas;
+
+
+                                |-------PY e a ALOCAÇÃO DE MEMÓRIA-------|
+        - Ao iniciarmos uma variável e atribuirmos um valor à ela, a maioria das linguagens de programação carrega valores
+        que são alocados em memória e quando esses valores são alterados, a memória também é alterada.
+        - Na linguagem de programação Python, as variáveis armazenam endereços de memória e não valores
+
+        - Por isso, é correto afirmar que o conceito de variável em Python é representado sempre por um objeto;
+        - Toda variável é uma referência.
+
+                  |-------PY e a DECLARAÇÃO DAS VARIÁVEIS-------|
+
+        - em PY as váriáveis podem ser traclardas em qualquer momento do código durante a codificação;
+        - Em C por ex devem elas ser declaradas antes, chamadas de variáveis universais.
+
+        - Nem tao pouco declarar o tipo de variável como é feito em si;
+        - A linguagem interpreta o tipo de dado que está sendo armazenado.
+
+        - o TIPO DE CONTEÚDE das variáveis em PY é que definem o seu tipo de dado:
+            - x = 10 --> essa atribuição define automaticamente o tipo da var X sendo como inteiro
+            - cidade = santos --> idem, será do tipo string
+
+           **** Dá para forçar o reconhecimento ao fazer a devida declaração;
+
+        TIPO
+            int float bool str
+            type() - identificar o tipo do valor armazenado em uma variável;
+
+
+
+        |-----CIBCATENAÇÃO DADOS SAÍDA PADRÃO-----|
+        - vírgula (,)
+

@@ -1,0 +1,17 @@
+Dentro de ML, temos vários tipos de tarefas de aprendizado máquina:
+
+1 CLASSIFICAÇÃO --> Clusters (como se fosse a Classe 1, 2, 3, etc; A, B, C) - é um tipo de segmentação, separação, CLUESTERS de dados para criar grupos, agrupamentos similares;
+
+2 - REGRESSÃO LINEAR - relação de um dado para outro na relação de 1 para 1. Com um dado x, qual é a resposta y? °C para °F?;
+
+3 - PREVISÃO DE SÉRIE TEMPORAL - datas, futuro, repete-se ao longo do tempo?;
+
+4 -  PESQUISA VISUAL COMPUTACIONAL - pesquisa de imagens;
+
+5 -  NLP - processamento de linguagem natural; GPU é necessária (imagem e texto);
+
+---------------
+
+- Para cada tipo, uma fórmula matemática será criada no intuito de encontrar um padrão;
+- O computador irá implementar essa formula, que irá resolver cada caso por meio do ALGORITMO - MODELOS;
+- Cada caso terá suas fórmulas que irão consumir os dados e gerar os dados;

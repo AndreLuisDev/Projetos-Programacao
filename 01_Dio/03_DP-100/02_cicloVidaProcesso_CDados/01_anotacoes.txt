@@ -1,0 +1,44 @@
+Ciclo de Vida do Processo de Ciência de Dados
+
+#1 6 ESTÁGIOS
+
+1 Definir o problema, 2 obter os dados, 3 preparação dos dados, 4 treinar o modelo, 5 integrar o modelo, 6 Monitorar
+
+			ROAD MAP DA CIÊNCIA DE DADOS
+1 - Qual é a ciência que será apresentada ao Marching Learning?
+	- é importante conversar com o pessoal do negócio para entender o que eles querem.
+	- vendo sorvete! Quero prever quantos sorvetes venderei na próxima semana?
+	- Fazer o máximo de perguntas ao NEGÓCIO/ESTUDAR para entender, encontrar as fontes de dados;
+
+2 - Obter os dados - onde está a informação, como captar?;
+	- Está organizada? Há um processo que guarda essa informação?
+	- Se necessário, automatizar a obtenção dela;
+
+3 - Preparação dos dados:
+	- Uma vez que os dados estão cru, sabe-se de onde vem e onde estão salvos;
+	- extrair as informações que eu quero;
+
+4 - Pegar as informações e cria-se uma "fit history" --> cria uma tabela característica de Banco de Dados;
+	- trazer os dados para o MODELO e escolher a técnica, parâmetros;
+
+5 - integrar o modelo e onde será disponibilizado?
+	- dentro do Dockter?
+	- vou criar um ENDPOINT simples - para análise(coluna numa tabela);
+	- Em tempo real ou em lotes?
+
+6 - Monitorar o modelo, pois ao longo do tempo podem haver desvios de input de dados, a base muda, o modelo tbm;
+
+---------------------------------------
+
+	- Tratar com resoluções de problemas e cálculos é uma "ciência de dados" que fazemos desde de a infância:
+
+	- Tarefas de resolução de problemas eram problema de ciência de dados rudimentares;
+	- 1 ENUNCIADO DA QUESTÃO;
+	- 2 DADOS OS SEGUINTES DADOS;
+	- 3 ORGANIZAÇÃO DOS DADOS;
+	- 4 RESGATA FÓRMULAS PARA RESOLUÇÃO DO PROBLEMA, seja Báskara, Refração, Equação da Circunferência, etc;
+	- 5 CÁLCULA-SE A EQUAÇÃO;
+	- 6 CHEGA-SE AO FINAL DO PROBLEMA;
+
+
+

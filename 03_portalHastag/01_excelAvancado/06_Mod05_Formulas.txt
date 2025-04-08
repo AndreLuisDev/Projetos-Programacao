@@ -1,0 +1,23 @@
+1 - Criando fórmulas no EXCEL
+
+	- 			&	texto resultante	
+	10 _ 2 = _		1 & 1	11	
+adição	12		10&1	101	
+subtração	8		A&1	A1	o A deve estar entre aspas
+Multiplicação	20		A&B	AB	
+Divisão	5		Olá,&Mundo!	Olá, Mundo!	
+Exponenciação	100		Arthur&Barreto	Arthur Barreto	
+			Vendas: R$ & 20	Vendas: R$ 20	
+			Vendas & 20 & reais	Vendas 20 reias	
+			STATUS		
+>	maior	"=(1 _ 1)"	FALSO		
+<	menor		FALSO		
+>=	maior igual		VERDADEIRO		
+<=	menor igual		VERDADEIRO		
+=	igual		VERDADEIRO		
+<>	diferente		FALSO		
+
+
+2 - Fórmulas e referencias
+
+	- 

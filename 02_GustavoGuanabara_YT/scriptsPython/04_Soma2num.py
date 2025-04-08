@@ -1,0 +1,6 @@
+#Desafio03 - Crie um script PY que leia dois numero e tente mostrar a soma entre eles.print('Olá! Precisamos coletar a data do seu nascimento')
+print('Vamos somar dois números e verificar? ')
+num1  = input('Digite o primeiro número: ')
+num2 = input('Digite o segundo número: ')
+soma = sum(num1, num2)
+print('A soma dos números', num1, '+', num2, 'é igual a = ', soma)

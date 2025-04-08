@@ -1,0 +1,17 @@
+|---------------ESCOLHER UM SERVIÇO PARA TREINAR UM MODELO DE ML----|
+
+Serviços de IA do Azure:
+	- Já possui MODELOS pré-definidos, ex: descrever uma imagem, detectar rostos em fotos, detectar idioma de documentos;
+	- Não há necessidade de implementação do zero, a depender do projeto, pois existem diversos prontos;
+	
+MICROSOFT FABRIC:
+	- Plataforma única que contempla engenharia de dados, ciência de dados, projetos de ciência de dados de grande escala, com uma UI unificada;
+
+AZURE DATABRICKS:
+	 - Usa notebooks para engenharia de dados e ciência de dados em escala com PySpark;
+	- Serve para criação de modelos em grande escala;
+
+AZURE ML********************
+	- Criação da ML do zero;
+	- Ligar com a fonte de dados, processos do ML, Python, notebooks e scripts;
+	- Escolheremos modelo de IA para rodar em cima de uma base de dados --> para resultar em um melhor HIPERPARÂMETRO.

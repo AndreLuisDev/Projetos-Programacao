@@ -1,0 +1,56 @@
+	- Linguagem popular, simplista, fácil de uso e compatível com a maioria dos SO.
+	- Capacidade de auxiliar outras linguagens --> implanta novos módulos ou usa bibliotecas;
+
+	PYTHON
+	- linguagem interpretada - o código fonte é executado diretamente pelo INTERPRETADOR (browser ou software) - não é preciso transformá-lo em linguagem de máquina para Programa Objeto e depois executá-lo.
+
+	| ----CARACTERÍSTICAS-----|
+
+	Linguagem de alto nível
+	Orientada a objetos
+	Tipagem dinâmica e forte
+	Fácil aprendizagem
+	Comunidade ativa
+	Muitas bibliotecas/recursos
+	Linguagem interpretada
+
+********É uma linguagem de programação na qual o código fonte é executado por um programa de computador chamado interpretador que, em seguida, é executado pelo sistema operacional ou processador.
+
+Qual componente é o interpretador?
+O interpretador é um software que lê e executa o código-fonte de uma linguagem de programação diretamente, sem a necessidade de compilação prévia. Ele traduz o código linha por linha e o executa imediatamente.
+
+Exemplos de interpretadores:
+Python → O interpretador do Python executa scripts .py diretamente.
+
+JavaScript → Interpretado pelos navegadores através do motor V8 (Chrome) ou SpiderMonkey (Firefox).
+
+Ruby → Executado pelo interpretador Ruby MRI.
+
+Se precisar de mais detalhes, é só avisar! 😊
+
+
+
+		o interpretador é um compilador intermediário então do Python?
+
+
+	O ChatGPT disse:
+		Não exatamente. O interpretador do Python não é um "compilador intermediário", mas ele faz um processo misto de compilação e interpretação.
+
+	Como funciona a execução do código Python:
+	Compilação para Bytecode:
+
+		Quando você executa um script Python, o interpretador primeiro compila o código-fonte para um formato intermediário chamado bytecode (arquivos .pyc na pasta __pycache__).
+
+		Isso não é uma compilação para código de máquina, como em linguagens como C, mas sim para um formato intermediário que a máquina virtual do Python entende.
+
+		Interpretação pela Máquina Virtual (PVM - Python Virtual Machine):
+
+		O bytecode gerado é então interpretado pela PVM (Python Virtual Machine), que executa cada instrução.
+
+		Diferença entre Compilador e Interpretador no Python:
+Um compilador tradicional traduz o código-fonte diretamente para código de máquina e gera um executável.
+
+		O interpretador do Python faz uma compilação intermediária (para bytecode) e, depois, interpreta esse bytecode na PVM.
+
+		Então, o interpretador do Python não é um compilador intermediário, mas sim um sistema que compila o código para bytecode e o executa interpretando esse bytecode.
+

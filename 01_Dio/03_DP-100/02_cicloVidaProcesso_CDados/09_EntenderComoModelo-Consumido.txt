@@ -1,0 +1,12 @@
+|--------------------ENTENDER COMO O MODELO SERÁ CONSUMIDO-------------|
+
+
+	- Onde ele será consumido?
+		- Em um ponto de extremidade, Docker, embarcado [calculadora] ou apenas para enriquecer uma base de dados histórico?
+			- Enriquecer por exemplo uma tabela de dados com uma coluna e informação a mais - CATEGORIZAÇÃO NOVA;
+			
+		- ONDE A APLICAÇÃO DE ML estará?
+
+
+
+

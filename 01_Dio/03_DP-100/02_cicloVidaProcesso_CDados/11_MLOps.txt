@@ -1,0 +1,20 @@
+MLOps
+
+- Organização e Estrutura - Como explorar uma arquiteria de MLOps?
+
+1 - quando vamos criar na Azure, selecionamos no software a estrutura necessária:
+	- Storage, workspace no Azure ML, modelo específico pronto? --> tudo isso se transforma em um código;
+
+2 - Experimentação - a estrutura após testada, pode ser replicada;
+
+3 - Deployment - teste, empacotar e mandar para a parte de produção - onde esse End-Point será utilizado? 
+	- usado em Lote ou Real?
+
+4 - Loop externo - é o profissional que irá implementar o modelo direto na aplicação;
+	- Onde o desenvolvedor irá colocar essa APLICAÇÃO INTELIGENTE no software?;
+	- Botão para acionar o ML criado;
+
+5 - testar e colocar para produção;
+
+6 - monitorar o Modelo, para verificar se não há desvios, fugindo do esperado?
+

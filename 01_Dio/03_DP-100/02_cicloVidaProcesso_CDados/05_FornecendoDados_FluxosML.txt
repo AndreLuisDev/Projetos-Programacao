@@ -1,0 +1,21 @@
+# Escolha como fornecer dados para fluxos de trabalho de aprendizado de máquina:
+
+1 - Separe a COMPUTAÇÃO do ARMAZENAMENTO:
+
+	- MÁQUINA LADO A (COMPUTAÇÃO)
+		- A máquina que irá processar o ML deve estar separado da máquina que irá fazer a CARGA DE DADOS;
+		- MAQUINA que faz o armazenamento contém os dados históricos; 
+
+	- MÁQUINA LADO B (CARGA DADOS)
+	- Podemos escolher a máquina que irá fazer a CARGA DE DADOS e sua CAPACIDADE:
+		- Podemos usar 1 vez, com tempo usar outra CARGA de dados - por demanda - OVERLOAD DE DADOS
+		- ARMAZENAMENTO DAS CARGAS DE TREINAMENTO DO MODELO - ele gera dados do treinamento;
+			TIPOS :
+
+			- ARMAZENAMENTO DE BLOBS DO AZURE;
+			- AZURE DATA LAKE STORAGE (GEN 2);
+			- BANCO DE DADOS SQL DO AZURE.
+
+
+
+

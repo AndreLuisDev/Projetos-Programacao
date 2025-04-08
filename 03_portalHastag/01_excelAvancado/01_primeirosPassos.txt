@@ -1,0 +1,5 @@
+1 - Editar a celula --> duplo clique, clicar na barra ou clicar na célula e digitar F2.
+	- dentro da edição da célula, não precisa apagar tudo o que digitar:
+		- sem sair da célula, digite ESC - o que foi inserido - apaga!
+
+2 - Buscar célula - caixa do lado 
